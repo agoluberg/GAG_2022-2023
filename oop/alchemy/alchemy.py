@@ -7,6 +7,10 @@ class AlchemicalElement:
 
     Every element must have a name.
     """
+    
+    def __init__(self, name: str):
+        """Initalize element."""
+        self.name = name
 
 
 class AlchemicalStorage:
