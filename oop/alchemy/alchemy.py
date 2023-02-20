@@ -9,7 +9,7 @@ class AlchemicalElement:
     """
     
     def __init__(self, name: str):
-        """Initalize element."""
+        """Initalize element2."""
         self.name = name
 
 
